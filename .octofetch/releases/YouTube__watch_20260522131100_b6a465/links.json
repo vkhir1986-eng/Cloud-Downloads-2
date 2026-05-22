@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4767",
+  "folder": "YouTube__watch_20260522131100_b6a465",
+  "base_name": "Zmeex_-_Slow_slow_(Original_Mix)_Thd6PI4Uyy4_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/vkhir1986-eng/Cloud-Downloads-2/releases/tag/co-releases-v1-4767",
+  "files": [
+    {
+      "name": "Zmeex_-_Slow_slow_.Original_Mix._Thd6PI4Uyy4_360p.mp4",
+      "url": "https://github.com/vkhir1986-eng/Cloud-Downloads-2/releases/download/co-releases-v1-4767/Zmeex_-_Slow_slow_.Original_Mix._Thd6PI4Uyy4_360p.mp4",
+      "api_url": "https://api.github.com/repos/vkhir1986-eng/Cloud-Downloads-2/releases/assets/427088626",
+      "id": 427088626,
+      "size": 27663028,
+      "download_count": 0
+    }
+  ]
+}
