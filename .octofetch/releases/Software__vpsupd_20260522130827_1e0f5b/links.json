@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6004",
+  "folder": "Software__vpsupd_20260522130827_1e0f5b",
+  "base_name": "Software__vpsupd_20260522130827_1e0f5b.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/vkhir1986-eng/Cloud-Downloads-2/releases/tag/co-releases-v1-6004",
+  "files": [
+    {
+      "name": "Software__vpsupd_20260522130827_1e0f5b.exe",
+      "url": "https://github.com/vkhir1986-eng/Cloud-Downloads-2/releases/download/co-releases-v1-6004/Software__vpsupd_20260522130827_1e0f5b.exe",
+      "api_url": "https://api.github.com/repos/vkhir1986-eng/Cloud-Downloads-2/releases/assets/427087157",
+      "id": 427087157,
+      "size": 213717016,
+      "download_count": 0
+    }
+  ]
+}
